@@ -17,7 +17,6 @@ script.js
 To install this application, simply clone this repository:
 
 ```bash
-Copy
 git clone https://github.com/Srushti363/CodeClause_to-do-list_Srushti
 ```
 ## Usage
